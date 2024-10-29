@@ -1,1 +1,1 @@
-Simple project to learn some basic things oabout google cloud.
+Simple project to learn some basic things about google cloud.
