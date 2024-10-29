@@ -1,1 +1,1 @@
-This simple project was used for learning
+This simple project was used for learning google cloud
